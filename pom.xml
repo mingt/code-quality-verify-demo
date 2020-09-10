@@ -135,9 +135,9 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-checkstyle-plugin</artifactId>
-                <version>3.0.0</version>
+                <version>3.1.1</version>
                 <configuration>
-                    <configLocation>config/checkstyle/google-checks-6.18.xml</configLocation>
+                    <configLocation>config/checkstyle/google-checks-8.29.xml</configLocation>
                     <consoleOutput>true</consoleOutput>
                     <encoding>UTF-8</encoding>
                     <consoleOutput>true</consoleOutput>
